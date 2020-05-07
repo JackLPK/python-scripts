@@ -1,0 +1,22 @@
+[
+    {
+        "title": "{SAMPLE} BM Title 1 {SAMPLE}",
+        "label": { "x": "{SAMPLE} X-AXIS", "y": "{SAMPLE} Y-AXIS" },
+        "percentage": true,
+        "transparent": false,
+        "collection": [
+            { "name": "{SAMPLE} Vehicle", "values": [1.97, 2.19] },
+            { "name": "{SAMPLE} CBL 1997", "values": [3.23, 3.03, 2.91] }
+        ]
+    },
+    {
+        "title": "{SAMPLE} BM Title 2 {SAMPLE}",
+        "label": { "x": "{SAMPLE} X-AXIS", "y": null },
+        "percentage": true,
+        "transparent": false,
+        "collection": [
+            { "name": "{SAMPLE} Vehicle", "values": [0.28, 0.26] },
+            { "name": "{SAMPLE} CBL 1997", "values": [0.23, 0.26, 0.22] }
+        ]
+    }
+]
